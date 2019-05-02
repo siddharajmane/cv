@@ -1,0 +1,330 @@
+.lang-proficiency{
+  width: 100%;
+  height: 500px;
+  position: relative;
+  margin-top: 80px;
+}
+
+.h3-proficiency{
+  margin-top: 30px;
+  margin-bottom: 90px;
+  font-family: 'Gugi', cursive;
+  font-size: 250.5%;
+}
+
+.div1{
+  display: inline-block;
+  position: relative;
+  height: 50px;
+  width: 200px;
+  bottom: 286px;
+    right: -194px
+}
+
+.div2{
+  display: inline-block;
+  position: relative;
+  height: 50px;
+  width: 200px;
+  bottom: 215px;
+  right: 10px;
+}
+
+.div3{
+  display: inline-block;
+  position: relative;
+  height: 50px;
+  width: 200px;
+  bottom: 147px;
+  right: 215px;
+}
+
+.div4{
+  display: inline-block;
+  position: relative;
+  height: 50px;
+  width: 200px;
+  bottom: 81px;
+right: 419px;
+}
+
+.p1{
+  height: auto;
+    margin: 0;
+    padding: 0;
+    margin-left: 400px;
+    margin-right: 0px;
+    margin-bottom: 40px;
+    width: 100px;
+}
+
+.img1{
+  width: 50px;
+  height: 50px;
+position: absolute;
+top:0px;
+left:0px;
+}
+
+.img2{
+  width: 50px;
+  height: 50px;
+position: absolute;
+top: 0px;
+left: 50px;
+}
+
+.img3{
+  width: 50px;
+  height: 50px;
+position: absolute;
+top: 0px;
+    left: 97px;
+}
+
+.img4{
+  width: 50px;
+  height: 50px;
+position: absolute;
+top: 0px;
+    left: 144px;
+}
+
+
+
+
+
+
+
+
+.top {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 30px;
+}
+.middle-container
+{
+}
+.bottom-container
+{
+ background-color: #c8e6f5;
+ padding-bottom: 30px;
+}
+
+.cpp{
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  left: 0px;
+
+}
+
+.java{
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+  top:250px;
+}
+
+.python{
+  margin: 0;
+display: inline-block;
+position: absolute;
+top:300px;
+}
+
+.dart{
+  margin: 0;
+  display: inline-block;
+}
+
+.lang{
+  margin: 0;
+display: inline-block;
+}
+
+.shell{
+  margin: 0;
+display: inline-block;
+
+}
+
+
+
+
+.photo-para{
+
+}
+
+.web-para{
+
+}
+
+h3{
+  text-align: center;
+}
+
+.siddharaj{
+  padding: 0;
+  margin: 10px;
+  font-family: Patrick Hand, cursive;
+  color:  #085f63;
+}
+
+.link{
+  color: #085f63;
+  text-decoration: none;
+}
+
+.link1
+{
+  display: inline-block;
+  margin: 40px;
+  color: #085f63;
+  text-decoration: none;
+}
+
+.btn{
+  background-color: #32dbc6;
+  width: 100px;
+  height: 50px;
+  display:inline-block;
+  margin: 50px auto 50px auto;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.btn:hover{
+color: white;
+}
+
+.hello{
+  padding: 0;
+  margin: 40px auto 40px auto;
+}
+
+.skill {
+  position: relative;
+}
+.skill-row1{
+  width: 50%;
+  margin: 80px auto 120px auto;
+  text-align: left;
+}
+.contact-me{
+  margin: 0;
+}
+.skill-row2{
+  margin: 30px auto 0 auto;
+  width: 100px%;
+  height: 80%;
+  margin: 80px auto auto auto;
+  text-align: left;
+  line-height: 2;
+  position: relative;
+}
+
+
+
+.programming-png {
+  margin-right: 100px;
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+.mountain{
+  padding-top: 10px;
+  padding-bottom: 50px;
+  height: 250px;
+  width: 250px;
+}
+
+.cloud {
+  position: absolute;
+  padding: 10px;
+  left: 200px;
+  width: 150px;
+  height: 150px;
+
+}
+
+.cloud1 {
+  position: absolute;
+  right: 350px;
+  width: 100px;
+  height: 100px;
+}
+
+p{
+  padding: 10px;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+
+.para1{
+font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 2;
+  margin: 0;
+  padding: 0;
+}
+
+.para2{
+font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  line-height: 2;
+  margin: 0;
+  padding: 0;
+}
+
+
+.coding-png {
+  position: relative;
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin-right: 30px;
+  right:55px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+html{
+  margin: 0;
+}
+
+.profile-png{
+  margin-top: 80px;
+  width: 200px;
+  height: 200px;
+  border-radius: 70px;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  font-family: 'Gugi', cursive;
+  font-size: 400.5%;
+}
+
+
+h2 {
+  margin-top: 0;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  font-family: 'Gugi', cursive;
+  font-size: 300.5%;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Gugi', cursive;
+  font-size: 250.5%;
+}
